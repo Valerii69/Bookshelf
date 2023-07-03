@@ -1,11 +1,11 @@
 {
-  "name": "project-tomeville",
+  "name": "bookshelf",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://Valerii69.github.io/Bookshelf",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-tomeville/"
+    "build": "parcel build src/*.html --public-url /bookshelf/"
   },
   "repository": {
     "type": "git",
